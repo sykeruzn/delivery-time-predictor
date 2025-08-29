@@ -70,4 +70,4 @@ This project predicts delivery times based on fuel consumption and distance. It 
 
 ## License
 
-This project is for educational and
+This project is for educational and demonstration purposes.
